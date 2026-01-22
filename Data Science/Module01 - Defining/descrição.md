@@ -28,7 +28,7 @@
  brought me to data science.
 
 ## Topic : _Any advice for new Data Scientist_ ## 
- - My advice to an aspiring data scientist is to be curious, extremely argumentative, judgmental. Curiosity is absolutely must. If you're not curious, you would not know what to do with the data.
+ My advice to an aspiring data scientist is to be curious, extremely argumentative, judgmental. Curiosity is absolutely must. If you're not curious, you would not know what to do with the data.
  Judgmental because if you do not have preconceived notions about things, you wouldn't know where to begin. Argumentative because if you can argue
  then you can plead a case, at least you can start somewhere. And then you learn from data and then you modify your assumptions and hypothesis, and your data would help you learn.
  And you may start at the wrong point, you may say that I thought I believed this
