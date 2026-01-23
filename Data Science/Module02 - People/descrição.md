@@ -1,0 +1,18 @@
+# **CURSO : DATA SCIENCE FOUNDATIONS ( Fundamentos de Ciência de Dados )** #
+
+## Description ##
+ I've built a recommendation engine before as part of a large organization and worked through all types of engineers and accounted for different parts of the problem. It's one of the one's I'm most happy with because ultimately I came up with the very simple solution that was easy to understand from all levels, from the executives to the engineers and developers. Ultimately it was just as efficient as something really complex that I could have spent a lot more time on.
+ Back in the university we have a problem that we wanted to predict algal bloom. This algae bloom could cause rising toxicity of the water and it could cause problems to the water treatment company. We couldn't predict it with our chemical engineering background so we used artificial neural-networks to predict when this bloom will occur.
+ So the water treatment companies could better handle this problem. In Toronto the public transit is operated by Toronto Transit Commission. We call them TTC.
+ It's one of the largest transit authorities in the region in North America. And one day they contacted me and said, 'we have a problem'. And I said okay, what's the problem. They said, 'well we have complaints data and we would like to analyze it and we need your help'. I said fine I'll be very happy to help. So I said how many complaints do you have? They said, 'a few'. I said how many? 'Maybe half a million'.
+ I said well let's start working with it. So I got the data and I started analyzing it. So basically they have done a great job at keeping the data, some data in tabular format other was unstructured data. And in that case tabular data
+ was when the complaint arrived, who received it, what was the type of the complaint, was it resolved, whose fault was it. And the unstructured part of it was the exchange of emails and faxes. So imagine looking at half a million exchanges of emails and trying to get some answer from it.
+ So I started working with it and the first thing I wanted to know is why would people complain and is there a pattern. Are there some days where there are
+ more complaints than others? And I looked at the data and I analyzed it in all different formats and I couldn't find what the impetus for complaints being higher on a certain day and lower on others. 
+ And it continued for maybe a month of so and then one day I was getting off the bus in Toronto and I was still thinking about it and I stepped out without looking on the ground and I stepped into a puddle, puddle of water.
+ And now I was sort of ankle deep into water and it was just one foot wet and the other dry and I was extremely annoyed. And I was walking back and then it hit me
+ and I said well wait a second. 
+ Today it rained unexpectedly and I wasn't prepared for it. That's why I'm wet and I wasn't looking for it. What if there's a relationship between
+ extreme weather and the type of complaints TTC receives? So I went to the Environment Canada's website and I got data on rain and precipitation, wind and the like.
+ And there I found something very interesting. The ten most excessive days for complaints, the ten days were people complain the most were the days when the weather was bad. It was unexpected rain, an extreme drop in temperature, too much snow, a very windy day. So I went back to the TTC's executives and I said, I've got good news and bad news. I said, the good news is I know why people
+ would complain excessively on certain days. I know the reason for it. The bad news is there's nothing you can do about it.
