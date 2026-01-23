@@ -12,7 +12,9 @@
  it's all ubiquitous, it's here. There's never been a better time to be a data scientist.
 
 ### _Descrição : What is Data Science?_ ###
- O campo relacionado a Ciência de Dados pode ser referenciado como um processo que exige a extração de dados e o utilização destas informações para resoluções de problemas,  considerando o desenvolvimento de mecanismos técnicos e ferramentas que moldem uma análise obtida por dados.   
+ O campo relacionado a Ciência de Dados pode ser referenciado como um processo que exige a extração de dados e o utilização destas informações para resoluções de problemas,  considerando o desenvolvimento de mecanismos técnicos e ferramentas que moldem uma análise obtida por dados. 
+
+-----------------------------------------------------------  
 
 ## Topic : _There are many paths to Data Science_ ##
  Data science didn't really exist when I was growing up. It's not something that I ever woke up and said, "I want to be a data scientist when I grow up." No, it didn't exist. I didn't know I would be working in data science. When I grew up there wasn't that field called data science. And I think it's really new.
@@ -26,7 +28,10 @@
  I think that's where my start was and I started building these models when I was a graduate student at the University of Toronto. I started working with very large data sets looking at household samples of 150,000 households, half a million trips and that too, I'm speaking from mid-nineties, when this was supposed to be a very large data set but not in today's terms but that's how I started. I continued working with it and then I moved to McGill University where I was a professor of transportation engineering and I built even bigger data models that involved data and analytics. So I would say, yes transportation research brought me to data science.
 
 ### _Descrição : There are many paths to Data Science_ ###
- Inicialmente, a área de Ciência de Dados não tinha esta nomenclatura, apesar de possuir a mesma estrutura e definição, o campo relacionado a coleta, extração e manipulação de dados era entitulado como "Estatística". O estudo compõe meio didático semelhante ao conteúdo de aprendizagem de Engenharia, composto por fundamentos aritméticos e estratégico. Por abranger fundamentos presentes em diversas ramificações de Engenharia, o campo de estudo possibilita a ágil transição entre diferentes áreas de atuação, exigindo domínio sob aspectos aritméticos e recursos analíticos. 
+ Inicialmente, a área de Ciência de Dados não tinha esta nomenclatura, apesar de possuir a mesma estrutura e definição, o campo relacionado a coleta, extração e manipulação de dados era entitulado como "Estatística". O estudo compõe meio didático semelhante ao conteúdo de aprendizagem de Engenharia, composto por fundamentos aritméticos e estratégico. Por abranger fundamentos presentes em diversas ramificações de Engenharia, o campo de estudo possibilita a ágil transição entre diferentes áreas de atuação, exigindo domínio sob aspectos 
+ aritméticos e recursos analíticos. 
+
+-----------------------------------------------------------------
 
 ## Topic : _Any advice for new Data Scientist_ ## 
  My advice to an aspiring data scientist is to be curious, extremely argumentative, judgmental. Curiosity is absolutely must. If you're not curious, you would not know what to do with the data.
@@ -41,8 +46,10 @@
  Your competitive advantage is not necessarily going to be your analytical skills. Your competitive advantage is your understanding of some aspect of life where you exceed beyond others in understanding that. Maybe it's film, maybe it's retail, maybe it's health, maybe it's computers.
  Once you have figured out where your expertise lies, then you start acquiring analytical skills, what platforms to learn. And those platforms, those tools would be specific to the industry that you're interested in. And then once you have got some proficiency in the tools, the next thing would be to apply your skills to real problems and then tell rest of the world what you can do with it.
 
-### _Descrição : _Any advice for new Data Scientist_ ###
+### _Descrição : Any advice for new Data Scientist_ ###
   Para futuros profissionais, recomenda-se três principais requisitos necessários para se nomear como um "analista": curiosidade, disposição e versatilidade. Estes pilares influenciam o desenvolvimento e a capacidade coginitiva de um profissional. 
+
+------------------------------------------------------------------------
 
 ## Topic : _What is the Cloud?_ ##
  Our industry is in the process of constant change and reinvention. Since this video was recorded, a few things have changed. For example, the learning tool we used to call Data Scientist Workbench now has a new name. It is called Skills Network Labs or SN Labs for short. It is much more functional, faster and a lot easier to use yet it preserves the key attributes that made it so popular with learners. There is nothing to download, install or configure. All you need is your web browser. There is nothing to reserve and there is no limit on time. Any files you create, will remain on SN Labs. You can continue to use SN Labs even after you have completed your course. And yes, it is still available free of charge to our learners. So, remember, when you hear Data Scientist Workbench, think Skills Network Labs. Now, go ahead and watch the video lesson.
@@ -60,3 +67,16 @@
 
 ### _Descrição : What is the Cloud?_ ###
  O antigo Data Scientist Workbench agora se chama SN Labs, Uma plataforma gratuita, veloz e que no navegador se abre. Sem precisar baixar ou instalar, o trabalho nunca se perde, É a ferramenta ideal para que o cientista de dados prospere. A nuvem é o grande trunfo para processar o que a máquina não aguenta, Unindo equipes pelo mundo enquanto a colaboração se sustenta. Com Spark, R e grandes dados, o poder está em suas mãos, Transformando informações complexas em simples soluções.
+
+-----------------------------------------------------------------------------
+
+## Review Questions ##
+
+ 1. _From the reading in the report by the McKinsey Global Institute, by 2018, it is projected that there will be a shortage of people with deep analytical skills in the United States. What's the size os this shortage?_
+    > **140.000 - 190.000 people**
+
+ 2. _What has changed form the past to make Data Science an in-demand occupation?_
+    > **Vast amount of data date being created**
+
+ 3. _What is the minimum education requirement to become a data scientist?_
+    > **All the requirement are helpful, but are not necessary to become a data scientist, education backgrounds of data scientist vary**
