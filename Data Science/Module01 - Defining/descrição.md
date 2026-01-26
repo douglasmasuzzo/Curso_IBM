@@ -1,5 +1,10 @@
 # **CURSO - DATA SCIENCE FOUNDATION ( DataScience 101 )** #
 
+## Objetivos ##
+   - What is data science?
+   - Data Science is a new field
+   - There are many paths to data science
+
 ## Topic : _What is Data Science?_ ##
  Data science is a process, not an event. It is the process of using data to understand different things, to understand the world. For me, it's when you have a model, or a hypothesis of a problem, and you try to validate that hypothesis or model with your data.
  Data science is the art of uncovering the insights and trends that are hiding behind data. It's when you translate data into a story, so you use the storytelling to generate insights. And with these insights, you can make strategic... choices for a company or institution.
@@ -68,9 +73,24 @@
 ### _Descrição : What is the Cloud?_ ###
  O antigo Data Scientist Workbench agora se chama SN Labs, Uma plataforma gratuita, veloz e que no navegador se abre. Sem precisar baixar ou instalar, o trabalho nunca se perde, É a ferramenta ideal para que o cientista de dados prospere. A nuvem é o grande trunfo para processar o que a máquina não aguenta, Unindo equipes pelo mundo enquanto a colaboração se sustenta. Com Spark, R e grandes dados, o poder está em suas mãos, Transformando informações complexas em simples soluções.
 
+## Material - **Ciência de Dados** ##
+ O material é focado na descrição do mercado de trabalho e na importância de estratégias sobre esta disciplina.
+ 
+   - Material : [Ciência de Dados - BigDataUniversity](Data%20Science%20-%20BigDataUniversity.pdf)
+
+   > **Profissão do Século** : Harvard Business Review rotulou a disciplina de Ciência de Dados como 'o trabalho mais sexy do século 21'.
+
+   > **Crise de Talentos** : Existe uma escassez global massiva. O autor McKinsey, estima-se um déficit de centenas de profissionais com habilidades análiticas profundas.
+
+   > **Perfil do Profissional Ideal** : Não basta ter raciocínio lógico, o profissional também deve possuir conhecimentos técnicos, experiência e habilidades comunicativas.
+
+   > **Impacto Corporativo** : Grande varejistas utilizam esses dados para compreender a formação de hábitos dos conusmidores. Quando faltam especialistas internos, as empresas recoorem ao _crowdsourcing_ via competições no Kanggle. 
+
+   > **Valorização Financeira** : A alta demanda reflete-se nos salários. O assunto cita o caso de ex-graçom, que após conhecer e estudar sobre o mundo da progração, começou sua carreira como analista de dados sendo recompensado remuneramente bem. 
+ 
 -----------------------------------------------------------------------------
 
-## Review Questions ##
+### _Review Questions_ ###
 
  1. _From the reading in the report by the McKinsey Global Institute, by 2018, it is projected that there will be a shortage of people with deep analytical skills in the United States. What's the size os this shortage?_
     > **140.000 - 190.000 people**

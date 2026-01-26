@@ -1,5 +1,10 @@
 # **CURSO : DATA SCIENCE FOUNDATIONS ( Fundamentos de Ciência de Dados )** #
 
+## Objetivos ##
+   - A day in the life of a Data Science person
+   - What tools do data science people use?
+   - R x Python 
+
 ## Topic : _A day in the life of a Data Science person_ ##
  I've built a recommendation engine before as part of a large organization and worked through all types of engineers and accounted for different parts of the problem. It's one of the one's I'm most happy with because ultimately I came up with the very simple solution that was easy to understand from all levels, from the executives to the engineers and developers. Ultimately it was just as efficient as something really complex that I could have spent a lot more time on.
  Back in the university we have a problem that we wanted to predict algal bloom. This algae bloom could cause rising toxicity of the water and it could cause problems to the water treatment company. We couldn't predict it with our chemical engineering background so we used artificial neural-networks to predict when this bloom will occur. So the water treatment companies could better handle this problem. In Toronto the public transit is operated by Toronto Transit Commission. We call them TTC.
@@ -47,4 +52,30 @@
 
 ### _Description : Data Science Tools and Technology_ ###
  O tópico valoriza a regressão como base do entendimento de dados e a visualização como ferramenta essencial de comunicação. Defende o uso de algoritmos simples, como KNN, que superam os modelos complexos e inflados. Além disso, existe a diferença entre os dados estruturados ( tabelas e colunas ) e não estruturados ( outros arquivos ).
- Resumidamente, a regressão é explicada de forma brilhante pela analogia de uma corrida de taxi: onde um valor fixo inicial ( constante ) e valores que variam conforme a distância e o tempo. A regressão é uma ferramenta que permite calcular esses valroes ocultos observando apenas o histórico de viagens.
+ Resumidamente, a regressão é explicada de forma brilhante pela analogia de uma corrida de taxi: onde um valor fixo inicial ( constante ) e valores que variam conforme a distância e o tempo. A regressão é uma ferramenta que permite calcular esses valroes ocultos observando apenas o histórico de viagens
+
+## Material - **Regressão** ##
+ Este capítulo explora a "ferramenta de trabalho" fundamental da análise estatística, desde a origem até o presente momento.
+
+   - Material : [Regressão - BigDataUniversity](Regression%20-%20BigDataUniversity.pdf)
+
+   > **Origem Histórica** : A técnica foi formalizada por _Francis Galton_ em 1886, ao estudar por que pais de alta estatura não tinham filhos, necessariamente, mais altos que eles ( regressão sob medida ).
+
+   > **Uso Ubíquo** : Atualmente, modelos de regressão são essenciais na medicina e nos negócios
+
+   > **Departamento de Conclusões Óbvias** : O autor usa uma anedota pessoa sobre sua tese de mestado para explicar que a regressão vai além do óbvio.
+
+   > **Quantificação de Impacto** : A regressão quantifica quanto cada variável impacta em seus respectivos quisitos. 
+
+-------------------------------------------------------------------------------
+
+### _Review Questions_ ###
+ 
+ 1. _What is structured data?_
+    > Resposta : **Data that can be stored in a database or some tabular form**
+
+ 2. _What does the following formula represent: Base fair + Time x (Time in cab)_
+    > Resposta : **The possible formula used in regression analysis to determine the cost of a cab ride**
+
+ 3. _In the reading "**Getting Started with Data Science**", what is the example of a question that can be put on a Regression Analysis?_
+    > Resposta : **What is the impact of lot size on housing price?**
