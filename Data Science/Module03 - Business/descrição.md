@@ -68,3 +68,19 @@
     > **Formatos e Contextos** : Foca em ensaios e relatórios extensos, geralmente entre 1.000 e 7.000 palavras
 
     > **Planejamento Reverso** : O documento recomenda planejar o entregável antes de começar a análise, garantindo que a mensagem e os dados estejam perfeitamente alinhados.
+
+---------------------------------------------------
+
+### _Review Question_ ###
+ 
+ 1. _Complete the following sentence that best explains why business needs to capture data: At the end of the day, for businesses, they know one thing, that if they are unable to measure something :_
+
+   > Resposta : **They are unable to improve it**
+
+ 2. _A business should never:_
+
+   > Resposta : **Delete Data**
+
+ 3. _What is the role of the Data Scientist?_
+
+   > Resposta : **Use the insights to build the narrative to communicate the findings**
