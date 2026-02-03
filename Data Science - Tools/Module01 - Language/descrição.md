@@ -87,6 +87,11 @@
  The Julia language is relatively new, having been written in 2012, but it has a lot of promise for future impact on the data science industry. JuliaDB is a particularly useful application of Julia for data science. It's a package for working with large persistent data sets.
  That's as far as we’ll dig into the many languages that are used to solve data science problems. If you have experience with a particular language, I recommend you do a web search to see what might already be possible in terms of using it for data science. You might be surprised at the possibilities!
 
+### _Description_ ###
+ O ecossistema da ciência de dados é fundamentado por um trio essencial de linguagens: Python, R e SQL, cada uma atendendo a necessidades específicas do setor. Python destaca-se como a linguagem mais popular e versátil, sendo a escolha principal para Machine Learning e IA devido à sua sintaxe clara e bibliotecas poderosas como Pandas e TensorFlow. Já a linguagem R é a favorita de estatísticos e matemáticos, oferecendo um vasto repositório de conhecimento estatístico e facilidade na tradução de fórmulas matemáticas em código. Complementando ambas, o SQL (Structured Query Language) permanece indispensável para o gerenciamento de bancos de dados relacionais, funcionando como o intérprete universal para a manipulação e extração direta de dados estruturados. 
+ 
+ Além das três principais, o campo abrange linguagens especializadas que resolvem desafios de performance e escalabilidade, como Scala e Java, que sustentam grandes frameworks de processamento como Apache Spark e Hadoop. Enquanto o C++ fornece a velocidade necessária para o núcleo de bibliotecas de Deep Learning, linguagens mais recentes como Julia prometem a agilidade do Python com a execução de alto desempenho do C. Essa diversidade de ferramentas permite que profissionais em variados papéis — de Engenheiros de Dados a Analistas de Negócios — escolham a tecnologia ideal com base na infraestrutura da empresa e na complexidade do problema, garantindo que o desenvolvimento seja escalável, eficiente e inclusivo.
+
 ---------------------------------------------------------------------------------
 
 ### _Review Questions_ ###

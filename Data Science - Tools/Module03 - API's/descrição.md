@@ -83,6 +83,12 @@
  The application renders the results by drawing bounding boxes and labels. In this video, we’ve introduced the Model Asset eXchange, a free and open source repository for microservices that make deep learning functionality available to applications and services in local and cloud environments.
  In the lab, you will have a chance to try a model-serving microservice, explore its API, and learn more about how you can leverage it from a web application and an Internet of Things application.
 
+
+### _Description_ ###
+
+ A base técnica da Ciência de Dados moderna repousa sobre bibliotecas poderosas e a comunicação eficiente entre sistemas. Bibliotecas como Pandas e NumPy formam a espinha dorsal para manipulação de dados em Python, enquanto Matplotlib e Seaborn transformam números em insights visuais. Para que essas ferramentas não fiquem isoladas, as APIs (especialmente as do tipo REST) funcionam como tradutores universais, permitindo que softwares distintos troquem informações via requisições e respostas formatadas em JSON. Tudo isso é alimentado por Data Sets (conjuntos de dados), que podem ser estruturados como arquivos CSV ou organizados em redes complexas, sendo protegidos por licenças específicas como a CDLA para garantir o uso ético e legal em ambientes abertos ou corporativos.
+
+ No topo dessa estrutura estão os modelos de Machine Learning, que aprendem padrões para realizar previsões através de abordagens supervisionadas (como classificação e regressão), não supervisionadas (como agrupamento) ou por reforço. O Deep Learning leva essa capacidade a um nível superior, emulando o cérebro humano para processar imagens e sons com frameworks como TensorFlow e PyTorch. Para acelerar o trabalho nas empresas, a IBM criou hubs de confiança: o Data Asset eXchange (DAX), que oferece dados curados e prontos para uso, e o Model Asset eXchange (MAX), que fornece microsserviços de Deep Learning prontos para implantação via Docker. Essas plataformas permitem que desenvolvedores integrem inteligência artificial sofisticada em suas aplicações quase instantaneamente, pulando as etapas exaustivas de treinamento do zero.
 ---------------------------------------------------------------------------
 
 ### _Review Questions_ ###
