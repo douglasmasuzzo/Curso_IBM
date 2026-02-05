@@ -28,6 +28,11 @@
  So it's a nice data set to play with. And as I said ggplot2 is relatively complex so I'm just copy-pasting the code for plotting something really nicely. So this is basically the weight of the car over the mileage. And you see here the more heavy the car gets, the less is the mileage. And in addition to that you are also drawing a regression line and also a confidence interval or a standard deviation.
  So that's pretty cool with only two lines of code You can create plots which you find in the best (scientific) publications because the best publishers often use R and ggplot2 for creating that plot. Okay, I hope this helps. If you have any further questions, please let me know in the Comments section below. And have a nice day. Bye!
 
+### _Application : RStudio IDE_ ###
+
+   - [**Teste**](Teste.R)
+
+-------------------------------------------
 
 ### _Review Questions_ ###
  
